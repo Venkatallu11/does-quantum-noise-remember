@@ -1,0 +1,7 @@
+{
+  "n_seeds": 20,
+  "median_antisymmetry": -0.0017499999999999877,
+  "mad_antisymmetry": 0.003541666666666665,
+  "fraction_abs_z_gt_3": 0.0,
+  "interpretation": "order asymmetry is a candidate residual only; it is not a quantum-memory certificate"
+}
