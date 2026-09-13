@@ -1,0 +1,7 @@
+[
+  {"truth":"M0_markov","best_depths":[4,4,2,0,1,0,1,0,0,5],"median_best_depth":1.0,"fraction_memory_depth_ge_1":0.6,"median_test_loglik_gain_depth6_vs_depth0":-0.34434909732419783},
+  {"truth":"M1_drift","best_depths":[4,4,2,0,1,1,2,0,0,4],"median_best_depth":1.5,"fraction_memory_depth_ge_1":0.7,"median_test_loglik_gain_depth6_vs_depth0":-0.48340776228559434},
+  {"truth":"M3_finite_memory","best_depths":[5,4,6,6,2,0,2,4,5,6],"median_best_depth":4.5,"fraction_memory_depth_ge_1":0.9,"median_test_loglik_gain_depth6_vs_depth0":0.8933712769968452},
+  {"truth":"M2_latent_environment","best_depths":[1,4,6,5,2,0,6,3,6,5],"median_best_depth":4.5,"fraction_memory_depth_ge_1":0.9,"median_test_loglik_gain_depth6_vs_depth0":0.019677181763114504},
+  {"truth":"M5_out_of_family","best_depths":[5,6,6,6,2,0,2,4,5,6],"median_best_depth":5.0,"fraction_memory_depth_ge_1":0.9,"median_test_loglik_gain_depth6_vs_depth0":0.9760952911543086}
+]
