@@ -1,0 +1,11 @@
+{
+  "train_histories": 30,
+  "test_histories": 96,
+  "results": [
+    {"dimension": 1, "parameters": 6, "train_mse": 0.008046557123893685, "train_max_abs": 0.284603626324182, "test_mse": 0.050720031615079486, "test_mae": 0.194869282504896, "test_max_abs": 0.4454899094683529},
+    {"dimension": 2, "parameters": 15, "train_mse": 0.001682596393376382, "train_max_abs": 0.10125955842929307, "test_mse": 0.02017699841316246, "test_mae": 0.10848507555485339, "test_max_abs": 0.45639108252599986},
+    {"dimension": 3, "parameters": 28, "train_mse": 0.0005907450055775427, "train_max_abs": 0.061816624452322555, "test_mse": 0.21525073076708287, "test_mae": 0.38763995722980055, "test_max_abs": 0.9203207407502844},
+    {"dimension": 4, "parameters": 45, "train_mse": 7.791400460353034e-05, "train_max_abs": 0.024542023618864817, "test_mse": 0.19916613775012126, "test_mae": 0.3321654852430864, "test_max_abs": 0.9595481230177756},
+    {"dimension": 6, "parameters": 91, "train_mse": 3.6066894557177806e-16, "train_max_abs": 6.71869788693158e-08, "test_mse": 0.043140826992071925, "test_mae": 0.15642205906549098, "test_max_abs": 0.6858023381567427}
+  ]
+}
