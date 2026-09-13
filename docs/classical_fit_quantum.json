@@ -1,0 +1,10 @@
+{
+  "dimension": 4,
+  "train_n": 30,
+  "test_n": 96,
+  "train_mse": 7.791400460353034e-05,
+  "train_max_abs_residual": 0.024542023618864817,
+  "test_mse": 0.19916613775012126,
+  "test_max_abs_residual": 0.9595481230177756,
+  "test_mean_abs_residual": 0.3321654852430864
+}
