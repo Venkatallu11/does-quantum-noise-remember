@@ -1,0 +1,7 @@
+[
+  {"history":"AB","classical_probability":0.20208399999999999},
+  {"history":"BA","classical_probability":0.209306},
+  {"history":"AA","classical_probability":0.23984},
+  {"history":"BB","classical_probability":0.171946},
+  {"history":"QUANTUM_EXACT","quantum":{"ab":0.752333524672903,"ba":0.7149989313606472,"aa":0.4716195623337639,"bb":0.8738962629895857,"antisymmetry":0.01866729665612793,"echo_antisymmetry":0.0093554739987175},"quantum_shot_estimate":{"ab":0.75825,"ba":0.7131,"aa":0.4726,"bb":0.8732,"antisymmetry":0.02257500000000001}}
+]
