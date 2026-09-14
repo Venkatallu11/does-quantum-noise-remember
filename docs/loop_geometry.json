@@ -1,0 +1,13 @@
+{
+  "loop_geometry": [
+    {"g": 0.04, "forward": 0.8186328703747914, "reverse": 0.8163131559452333, "closure_defect": 0.0011598572147790143, "orientation_defect": 0.0011598572147790143, "loop_phase_proxy": 0.0011571666772616643},
+    {"g": 0.08, "forward": 0.7739873772879498, "reverse": 0.7651765443319845, "closure_defect": 0.004405416477982649, "orientation_defect": 0.004405416477982649, "loop_phase_proxy": 0.0043666010892936865},
+    {"g": 0.12, "forward": 0.7038605347120559, "reverse": 0.6857377957879149, "closure_defect": 0.009061369462070479, "orientation_defect": 0.009061369462070479, "loop_phase_proxy": 0.008897152629014192},
+    {"g": 0.16, "forward": 0.6142392774752062, "reverse": 0.5860622600288128, "closure_defect": 0.014088508723196724, "orientation_defect": 0.014088508723196724, "loop_phase_proxy": 0.013691536567109544},
+    {"g": 0.22, "forward": 0.4600304339764084, "reverse": 0.42105401854057417, "closure_defect": 0.019488207717917122, "orientation_defect": 0.019488207717917122, "loop_phase_proxy": 0.018728627237803754},
+    {"g": 0.30, "forward": 0.26150263309665506, "reverse": 0.23014557321765888, "closure_defect": 0.015678529939498087, "orientation_defect": 0.015678529939498087, "loop_phase_proxy": 0.015186897337370612},
+    {"g": 0.40, "forward": 0.10467306339818394, "reverse": 0.13947256113035428, "closure_defect": 0.01739974886608517, "orientation_defect": -0.01739974886608517, "loop_phase_proxy": -0.016794246344879502}
+  ],
+  "classical_adversary": {"dimension": 4, "train_mse": 7.791400460353034e-05, "heldout_mse": 0.19916613775012126, "heldout_mae": 0.3321654852430864},
+  "interpretation": "The loop observable is a diagnostic of history sensitivity, not a quantum certificate. The adversarial comparison asks whether finite classical hidden state remains predictive on unseen histories."
+}
